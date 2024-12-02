@@ -1,4 +1,4 @@
-# Employee Salary Analysis and Table Application
+# Employee Salary Analysis and Table Webpage
 
 ## Overview
 
